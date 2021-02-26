@@ -1,0 +1,4 @@
+host : 'mysql-db.c9kfu7r47tge.us-east-2.rds.amazonaws.com'
+user : 'admin'
+password : 'admin123'
+dbname : 'student'
